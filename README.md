@@ -1,6 +1,5 @@
  👋 Olá, meu nome é Carlos Henrique Ferreira!
 
-![Bem-vindo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdpdHU2ZXljdGhlMHB6YTE1OHozNWJwNmc2NGRid2dmazR0cXZyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif)
 
 Tenho 22 anos, sou Estudante de Análise e Desenvolvimento de Sistemas Ead, concluindo Técnico em Tecnologia da Informação e Comunicação. Pretendo me especializar em IA / Machine Learning / Engenharia de Prompt.
  Ainda não trabalho na área, mas estou me esecializando para isso.
