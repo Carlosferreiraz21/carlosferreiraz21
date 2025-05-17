@@ -65,7 +65,7 @@ Sou o Carlos, estudante de Análise e Desenvolvimento de Sistemas no Paraná. Te
 </p>
 
 <p align="center">
-  📧 E-mail para contato: **carloshenrique.fnc@gmail.com**
+  📧 E-mail para contato: carloshenrique.fnc@gmail.com
 </p>
 
 ---
