@@ -1,18 +1,13 @@
-<!-- Banner animado -->
+<!-- Banner animado (funcional no GitHub) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+me+chamo+Carlos!;Estudante+de+TI+💻;Foco+em+Python,+IA,+Cloud+e+Flask;Seja+bem-vindo+ao+meu+GitHub!&center=true&width=500&height=40&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Olá%2C+me+chamo+Carlos!;Desenvolvedor+em+formação;Foco+em+Python%2C+IA+e+Cloud+Computing!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 🚀 Desenvolvendo projetos com Python, Flask e IA  
-- ☁️ Estudando Cloud Computing com Google Cloud (GCP)  
-- 💡 Interesses: Chatbots, Assistentes Virtuais, Automação e Aplicações Web  
-- 🔐 Explorando Segurança da Informação e Boas Práticas  
-- 📌 Paraná - Brasil
+Sou o Carlos, estudante de Análise e Desenvolvimento de Sistemas no Paraná. Tenho paixão por tecnologia desde criança e hoje aplico esse interesse em projetos com foco em Python, Flask, bancos de dados com SQLite, e ferramentas de API como Postman e Swagger. Atualmente, estou me aprofundando em Inteligência Artificial com Huggingface, Google Cloud Platform, versionamento com Git e GitHub, e em ambientes Linux. Busco aplicar meus conhecimentos na construção de soluções reais, como bots, assistentes virtuais, automações escolares e aplicações web úteis, enquanto sigo aprendendo e evoluindo com cada linha de código.
 
 ---
 
@@ -64,15 +59,15 @@
 ## 📬 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlos-henrique-ferreira-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-Carlos%20Henrique-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/carlos-henrique-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:carlosferreira.ttech@gmail.com">
-    <img src="https://img.shields.io/badge/-carlos.dev@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
+</p>
+
+<p align="center">
+  📧 E-mail para contato: **carloshenrique.fnc@gmail.com**
 </p>
 
 ---
 
 > *“Persistir, aprender e codar: todo projeto começa com uma ideia e coragem pra tentar.”*
-
