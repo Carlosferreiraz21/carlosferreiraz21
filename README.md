@@ -7,7 +7,10 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou o Carlos, estudante de Análise e Desenvolvimento de Sistemas no Paraná. Tenho paixão por tecnologia desde criança e hoje aplico esse interesse em projetos com foco em Python, Flask, bancos de dados com SQLite, e ferramentas de API como Postman e Swagger. Atualmente, estou me aprofundando em Inteligência Artificial com Huggingface, Google Cloud Platform, versionamento com Git e GitHub, e em ambientes Linux. Busco aplicar meus conhecimentos na construção de soluções reais, como bots, assistentes virtuais, automações escolares e aplicações web úteis, enquanto sigo aprendendo e evoluindo com cada linha de código.
+Olá! Me chamo **Carlos Henrique Ferreira**, sou estudante de **Análise e Desenvolvimento de Sistemas** e também concluinte do curso técnico em **Tecnologia da Informação e Comunicação (TIC)**. Estou em processo de transição para a área de TI, buscando minha primeira oportunidade profissional no setor.
+
+Atualmente, tenho direcionado meus estudos para **Inteligência Artificial, Machine Learning e Cloud Computing**, com foco em aplicações práticas como chatbots, automações e sistemas inteligentes baseados em dados. Meu objetivo é desenvolver soluções inovadoras que realmente façam diferença no dia a dia das pessoas e das empresas.
+
 
 ---
 
