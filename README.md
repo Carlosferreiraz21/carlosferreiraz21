@@ -57,9 +57,7 @@
 
 ## 🧠 Projetos em destaque
 
-- 🤖 [Assistente Virtual de Negócios com IA + Telegram + Flask](https://github.com/Carlosferreiraz21)
-- 📊 [Dashboard Escolar com Python + Google Sheets](https://github.com/Carlosferreiraz21)
-- 🌐 [App CRUD Planetas com SQLite + Flask](https://github.com/Carlosferreiraz21)
+- 🤖 [Assistente Virtual de Negócios com IA + Telegram + Flask](https://github.com/Carlosferreiraz21/Assistente-virtual)
 
 ---
 
