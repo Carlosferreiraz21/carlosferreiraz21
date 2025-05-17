@@ -66,7 +66,7 @@
 ## 📬 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlos-henrique-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-henrique-ferreira-dev/" target="_blank">
     <img src="https://img.shields.io/badge/-Carlos%20Henrique-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
   <a href="mailto:carlos.dev@gmail.com">
