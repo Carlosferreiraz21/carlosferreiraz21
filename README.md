@@ -69,7 +69,7 @@
   <a href="https://www.linkedin.com/in/carlos-henrique-ferreira-dev/" target="_blank">
     <img src="https://img.shields.io/badge/-Carlos%20Henrique-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
-  <a href="mailto:carlos.dev@gmail.com">
+  <a href="mailto:carlosferreira.ttech@gmail.com">
     <img src="https://img.shields.io/badge/-carlos.dev@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 </p>
